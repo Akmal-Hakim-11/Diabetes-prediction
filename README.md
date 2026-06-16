@@ -6,7 +6,7 @@
 Proyek ini bertujuan memprediksi tingkat risiko seseorang terkena penyakit diabetes (Sehat / Berisiko Tinggi) berdasarkan data demografi dan indikator rekam medis klinis menggunakan algoritma *machine learning* dengan metodologi **CRISP-DM**.
 
 🔗 **Live Demo:** [Link Live Demo](#)  
-📓 **Notebook:** [[Link Notebook](https://colab.research.google.com/drive/1rNA4Sju6GJtvPy97PnawQ1S0JbIaxxIf?usp=sharing)]
+📓 **Notebook:** [Link Notebook](https://colab.research.google.com/drive/1rNA4Sju6GJtvPy97PnawQ1S0JbIaxxIf?usp=sharing)
 
 ---
 
