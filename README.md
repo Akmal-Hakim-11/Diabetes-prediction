@@ -92,7 +92,5 @@ Penyakit diabetes sering kali terlambat disadari oleh penderitanya karena gejala
 ## 6. Deployment
 * **Tampilan Aplikasi:** Model dikemas menggunakan *framework* antarmuka **Streamlit**. Pada *dashboard* ini, pengguna dapat menggeser *slider* dan mengisi form data medis dasar. Setelah tombol analisis ditekan, *source code* akan mengirimkan data tersebut ke otak AI (`model_diabetes.pkl`) untuk mengeluarkan vonis risiko kesehatan dalam hitungan detik.
 
----
+---<img width="512" height="436" alt="Screenshot 2026-06-16 204100" src="https://github.com/user-attachments/assets/28ac2d02-391a-4f70-bf8d-1749029bdd90" />
 
-## ⚠️ Disclaimer
-Proyek rekayasa perangkat lunak dan analisis data ini dikerjakan secara berkelompok untuk memenuhi tujuan akademis. Hasil prediksi sistem **tidak dapat dijadikan diagnosis medis profesional yang absolut**. Pengguna disarankan untuk tetap berkonsultasi dengan fasilitas kesehatan dan dokter spesialis terkait.
