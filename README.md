@@ -6,7 +6,7 @@
 Proyek ini bertujuan memprediksi tingkat risiko seseorang terkena penyakit diabetes (Sehat / Berisiko Tinggi) berdasarkan data demografi dan indikator rekam medis klinis menggunakan algoritma *machine learning* dengan metodologi **CRISP-DM**.
 
 🔗 **Live Demo:** [Link Live Demo](#)  
-📓 **Notebook:** [Link Notebook](#)
+📓 **Notebook:** [[Link Notebook](https://colab.research.google.com/drive/1rNA4Sju6GJtvPy97PnawQ1S0JbIaxxIf?usp=sharing)](#)
 
 ---
 
@@ -14,23 +14,13 @@ Proyek ini bertujuan memprediksi tingkat risiko seseorang terkena penyakit diabe
 
 | Nama | NIM |
 | :--- | :--- |
-| [Nama Kamu] | [NIM Kamu] |
-| [Nama Teman 1] | [NIM Teman 1] |
-| [Nama Teman 2] | [NIM Teman 2] |
+| [MUHAMMAD AKMAL HAKIM PURAWIJAYA] | [2330511085] |
+| [Mochammad Fattah Maulana Mansur] | [2330511083] |
 
 *(Catatan: Jangan lupa ganti isi tabel ini dengan nama dan NIM asli kelompokmu ya!)*
 
 ---
 
-## 📁 Struktur Repositori
-* `prediksi_diabetes.ipynb` : Notebook Jupyter berisi eksplorasi data (EDA) dan pelatihan model AI.
-* `app.py` : *Source code* untuk antarmuka *dashboard* web berbasis Streamlit.
-* `model_diabetes.pkl` : Model *Machine Learning* Random Forest yang telah selesai dilatih.
-* `encoder_diabetes.pkl` : File *encoder* untuk mengubah input teks web menjadi angka.
-* `requirements.txt` : Daftar *library* pendukung untuk konfigurasi server web.
-* `diabetes_prediction_dataset.csv` : Dataset rekam medis original yang digunakan.
-
----
 
 ## 1. Business Understanding
 
