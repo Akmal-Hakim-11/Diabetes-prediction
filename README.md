@@ -226,6 +226,4 @@ streamlit run app.py
 | Platform Deployment | Hugging Face Spaces |
 | Notebook | Google Colab |
 
-**Tampilan Aplikasi:**
----<img width="512" height="436" alt="Screenshot 2026-06-16 204100" src="https://github.com/user-attachments/assets/28ac2d02-391a-4f70-bf8d-1749029bdd90" />
 
